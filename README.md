@@ -127,16 +127,22 @@ The analysis revealed:
 
 ## Tableau Dashboard
 
+
+## Tableau Dashboard
+
 I extended this Cafe Sales Analysis project by creating an interactive Tableau dashboard to complement the original analysis.
 
-**Dashboard:** Cafe Sales Dashboard  
+**Dashboard: Cafe Sales Dashboard**
+
 **Tool:** Tableau
+
+![Cafe Sales Dashboard](Dashboard%202.png)
 
 The dashboard provides a visual overview of cafe sales performance, helping users explore sales patterns and compare performance across relevant categories.
 
-**Workbook:** `cafe_sales_dashboard.twbx`
+**Workbook:** `dashboard/cafe_sales_dashboard.twbx`
 
-Download the Tableau packaged workbook from this repository to explore the dashboard in Tableau Desktop.
+Download the Tableau packaged workbook from this repository to explore the interactive dashboard in Tableau Desktop.
 
 
 ## Project Structure
@@ -219,4 +225,6 @@ These limitations were documented rather than hidden to ensure transparency thro
 ## Author
 
 **Gertrude Teresia**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gertrude-teresia-52b431237)
 
